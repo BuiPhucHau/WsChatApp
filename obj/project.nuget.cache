@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MiFh9OWt9CuSi4oOdJQ/03EzrjngSJKeg9ACWaFnd748l3jZPILwsvS+MyC4trQa+M/wiVxUk27olI9eqAaOZA==",
+  "dgSpecHash": "4pjgqkJFOdBuYspEdTwGmQLaN3EM/U531ZELfbmA8SCQExEUQ7D9ONsWNJZiepPBhLV+MioqzN/XVLQfTupjVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\WebChatServer\\WebChatServer\\WebChatServer.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\a\\WebChat_WebSocket_C-\\WebChatServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

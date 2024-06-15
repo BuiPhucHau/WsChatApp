@@ -8740,11 +8740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\WebChatServer\\WebChatServer\\WebChatServer.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\a\\WebChat_WebSocket_C-\\WebChatServer.csproj",
       "projectName": "WebChatServer",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\WebChatServer\\WebChatServer\\WebChatServer.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\a\\WebChat_WebSocket_C-\\WebChatServer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\WebChatServer\\WebChatServer\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\a\\WebChat_WebSocket_C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8821,7 +8821,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
